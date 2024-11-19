@@ -29,4 +29,4 @@ Conclusion
 This project aims to make USGS data more accessible and engaging, empowering users to understand and address critical environmental challenges.
 
 Sources
-Chat GPT, previous tutoring sessions, class dicussions 
+Chat GPT, previous tutoring sessions, class discussions 
